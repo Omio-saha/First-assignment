@@ -1,0 +1,90 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.first-span{
+    color: blue;
+}
+.first-section{
+    display: flex;
+    margin-bottom: 45px;
+}
+.second{
+    display: flex;
+    background-image: url(images/shapes/Frame\ 58.jpg);
+
+}
+.second  img{
+    height: 550px;
+    width: 45%;
+    margin-left: 30px;
+}
+.align{
+    text-align: center;
+}
+.paragraph{
+    padding-left: 250px;
+    padding-right: 250px;
+}
+.third-section{
+    display: flex;
+    margin-left: 30px;
+}
+.first-div{
+    width: 45%;
+    height: 550px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 80px;
+    margin-bottom: 100px;
+    box-shadow: 5px 5px 25px rgb(71, 71, 71);
+    border-radius: 25px;
+}
+.img-size{
+    width: 92%;
+    height: 55%;
+    padding-left: 15px;
+   margin-top: 16px;
+   border-radius: 15px;
+}
+.background{
+    width: 100%;
+    background-color: black;
+    color: whitesmoke;
+    height: 300px;
+    
+}
+.first-division{
+    padding-left: 44%;
+    font-size: 25px;
+    padding-top: 30px;
+}
+.second-divsion{
+        padding-left: 37%;
+        padding-bottom: 30px;
+}
+.second-span{
+    color: aqua;
+}
+.optional{
+    display: flex;
+    box-shadow: 2px 2px 20px rgb(201, 201, 201);
+    margin-bottom: 50px;
+    border-radius: 15px;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+.under-construction{
+    padding-left: 180px;
+    padding-top: 12px;
+    margin-bottom: 40px;
+}
+.first-button{
+    text-decoration: none;
+}
+.position{
+    padding-right: 40px;
+    padding-left: 40px;
+}
